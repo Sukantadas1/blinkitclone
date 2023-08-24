@@ -1,0 +1,19 @@
+.location{
+
+}
+.location>h5{
+    color:rgb(0, 0,0);
+    font-weight: 800;
+    margin-bottom: 6px;
+    font-size: 18px;
+}
+.location>p{
+    margin: 0px;
+    font-size: 13px;
+    font-weight: 400;
+}
+
+.vertical-line{
+    height: 55px;
+    border-left: 1px solid gray;
+}

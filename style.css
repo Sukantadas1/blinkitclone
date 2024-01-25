@@ -1,5 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400;500;700;900&display=swap');
 
+
 .location>h5{
     color: rgb(0, 0, 0);
     font-weight: 800;
@@ -49,11 +50,17 @@
     width: 85%;
 }
 .my-container{
+
     margin: auto;
     width: 85%;
     overflow-x: scroll;
 }
 .my-list{
+  /*   margin-bottom: 0 16px;
+    display: flex;
+    overflow: scroll;
+    gap: 20px;
+    border-radius: 12px; */
     white-space: nowrap;
 }
 
@@ -186,6 +193,29 @@ td{
     color: #666666;
     font-size: 14px;
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 @media screen and (max-width:768px){
